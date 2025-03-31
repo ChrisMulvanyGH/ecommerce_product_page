@@ -6,6 +6,7 @@
 /* Font Weights */
 /* Font Sizes */
 /* Colors */
+/* RESET STYLES */
 html {
   box-sizing: border-box;
   font-family: "Kumbh Sans", sans-serif;
@@ -41,6 +42,17 @@ ul {
 img {
   max-width: 100%;
   height: auto;
+}
+
+/* CLASSES */
+.container {
+  width: 100%;
+  max-width: 375px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .attribution {
