@@ -1,5 +1,14 @@
+/* I M P O R T */
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap");
+/* V A R I A B L E S */
+/* Screen Sizes */
+/* Fonts */
+/* Font Weights */
+/* Font Sizes */
+/* Colors */
 html {
   box-sizing: border-box;
+  font-family: "Kumbh Sans", sans-serif;
   font-size: 16px;
 }
 
